@@ -1,9 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Uncomment the next line if you're using a Jupyter Notebook:
-# %matplotlib inline
-
 # Parameters and domain settings
 # -------------------------------
 N = 128              # Number of grid points in each direction
